@@ -1,6 +1,6 @@
 ### Minimal TesseractJS Example
 
-![diagram-0](readme_files/diagram-0.png)
+![diagram-0](assets/diagram-0.png)
 
 ### Explanation of the Workflow
 
